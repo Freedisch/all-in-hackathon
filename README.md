@@ -4,6 +4,9 @@ GPT-Coach is an innovative and personalized AI learning platform powered by GPT-
 
 ## Architecture
 
+![image](https://user-images.githubusercontent.com/82499435/227750034-80362040-fd73-4419-a177-e81b8e6ff54e.png)
+
+
 ## Features
 
 - Set details of desired project
