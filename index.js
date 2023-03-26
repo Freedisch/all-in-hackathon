@@ -22,7 +22,7 @@ app.post("/", async (req, res) => {
     messages: [
       {
         role: "user",
-        content: `Give me a ${req.body.category} coding chalenge for a ${req.body.level} level programmer in ${req.body.language} in less than 1600 character`,
+        content: `Give me a ${req.body.category} a set guidance project for a ${req.body.level} level with the following tool ${req.body.language} in less than 1600 character following this format description: Objectif: Delivarables: Tools:`,
       },
     ],
   });
